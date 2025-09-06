@@ -34,9 +34,9 @@ select {
 
 .city {
   display: flex;
-  margin: 20px 0;
+  margin: 10px 0;
   justify-content: space-between;
-  padding: 20px 0;
+  padding: 10px 0;
   border-bottom: 1px dashed rgba(0, 0, 0, 0.2);
 }
 
@@ -63,4 +63,5 @@ footer {
   text-align: center;
   font-size: 15px;
   color: #f97316;
+  padding: 0 auto;
 }
